@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-5242&" alt="atul-5242" /></p>
 
-
+<a href="http://www.github.com/atul-5242"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=atul-5242&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!--
 
 - 👋 Hi, I’m @atul-5242
