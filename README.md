@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-5242&label=Profile%20views&color=0e75b6&style=flat" alt="atul-5242" /> </p>
 
-- 🔭 I’m currently working on **News Providing Website Feching data from API**
+- 🔭 I’m currently working on **Mega Ed-Tech Project**
 
 - 📝 I regularly write articles on [https://thesciencelovers52.blogspot.com/](https://thesciencelovers52.blogspot.com/)
 
