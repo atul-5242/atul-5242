@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-5242&label=Profile%20views&color=0e75b6&style=flat" alt="atul-5242" /> </p>
 
-- 🔭 I’m currently working on **Mega Ed-Tech Project**
+- 🔭 I’m currently working on **CodeX : Let's you to connect with same minded people [using WebSocket]**
 
 - 📝 I regularly write articles on [https://thesciencelovers52.blogspot.com/](https://thesciencelovers52.blogspot.com/)
 
-- 📫 How to reach me **atul.fzdlko2001@gmail.com**
+- 📫 How to reach me **atul.fzdlko2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-5242&" alt="atul-5242" /></p>
 
-<a href="http://www.github.com/atul-5242"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=atul-5242&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <!--
 
 - 👋 Hi, I’m @atul-5242
