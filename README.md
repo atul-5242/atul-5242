@@ -1,14 +1,12 @@
 ![logo](https://github.com/atul-5242/atul-5242/blob/main/Black%20Yellow%20Simple%20Profile%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Atul Maurya</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-5242&label=Profile%20views&color=0e75b6&style=flat" alt="atul-5242" /> </p>
 
-- 🔭 I’m currently working on **CodeX : Let's you to connect with same minded people [using WebSocket]**
-
-- 📝 I regularly write articles on [https://thesciencelovers52.blogspot.com/](https://thesciencelovers52.blogspot.com/)
+- 🔭 I’m currently working on **uptimematrix [ A monitoring tool ]**
 
 - 📫 How to reach me **atul.fzdlko2002@gmail.com**
 
